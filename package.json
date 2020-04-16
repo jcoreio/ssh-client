@@ -91,7 +91,7 @@
     "babel-plugin-istanbul": "^5.1.0",
     "chai": "^4.2.0",
     "chalk": "^2.4.2",
-    "codecov": "^3.1.0",
+    "codecov": "^3.6.5",
     "copy": "^0.3.2",
     "cross-env": "^5.2.0",
     "defaultenv": "^4.0.0",
